@@ -7,7 +7,7 @@
     background-color: rgb(6, 40, 99);
     height: 100vh;
     overflow-y: auto;
-    background-image: url(images/o.png), url(images/g.png), url(images/d.png), url(images/a.png);
+    background-image: url(image1.png), url(image2.png), url(image3.png), url(image4.png);
     background-repeat: no-repeat;
     background-size: 15%;
     background-position: top -10% left 0, top 0 right -5%, bottom 0 left -5%, bottom 0 right -5%;
